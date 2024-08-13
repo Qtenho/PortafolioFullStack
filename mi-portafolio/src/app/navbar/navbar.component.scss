@@ -1,0 +1,14 @@
+nav {
+    background-color: #690588;
+    #logo {
+      width: 80px;
+    }  
+
+    .nav-link:hover{
+        color: #690588;
+        background-color: white;
+        border-radius: 10px;
+        transition: all 0.10s;
+    }
+
+  }
